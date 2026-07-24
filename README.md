@@ -1,20 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:58A6FF&height=220&section=header&text=Temitope%20Erinle&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/temiii-1">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+%40+UT+Austin;Ex-SDE+Intern+%40+Amazon;Backend+%26+Distributed+Systems;Full-Stack+Developer;Always+Shipping+Something+New" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=temiii-1&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/temiii-1?label=Followers&style=flat-square&color=58A6FF" alt="followers"/>
-<img src="https://img.shields.io/badge/status-open%20to%20SWE%20roles-2ea043?style=flat-square" alt="open to work"/>
-
-</div>
-
-<br/>
+<h1 align="center">Hi 👋, I'm Temitope Erinle</h1>
+<h3 align="center">Computer Science Student @ UT Austin | Software Engineer | Backend & Full-Stack Developer</h3>
+<p align="center">
+  <a href="https://github.com/temiii-1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Software+Engineering+Intern;Backend+Developer;Full-Stack+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 👨🏽‍💻 About Me
 
@@ -67,14 +57,6 @@ Full-stack web app that helps users discover research participation opportunitie
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ⚙️ [Pintos Operating System](https://github.com/YOUR_USERNAME/pintos)
-Implemented core OS components in C — process management, thread synchronization, and virtual memory.
-
-`C` `Systems Programming` `Concurrency`
-
-</td>
 <td width="50%" valign="top">
 
 ### ➕ More on my profile
