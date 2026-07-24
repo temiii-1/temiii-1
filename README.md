@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, I'm Temitope Erinle</h1>
-<h3 align="center">Computer Science Student @ UT Austin | Software Engineer | Backend & Full-Stack Developer</h3>
+<h1 align="center">Hi👋, I'm Temitope </h1>
+<h3 align="center">Computer Science Student @ UT Austin | Aspiring Software Engineer | Backend & Full-Stack Developer</h3>
 <p align="center">
   <a href="https://github.com/temiii-1">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Always+Learning+Something+New" alt="Typing SVG" />
@@ -9,7 +9,6 @@
 ## 👨🏽‍💻 About Me
 
 ```yaml
-role: Computer Science Student @ The University of Texas at Austin
 experience: Former Software Development Engineer Intern @ Amazon
 currently_learning: [Distributed Systems, Cloud Infrastructure, Backend Engineering]
 interests: [Backend Development, Full-Stack Engineering, Developer Tools, Scalable Systems]
@@ -23,27 +22,40 @@ fun_fact: "I cannot see images in my mind 👀"
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,c,html,css" />
+
+<img src="https://skillicons.dev/icons?i=java" height="40"/> Java &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="40"/> C &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS
+
+<br/><br/>
 
 **Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,aws,flask,sqlite,vscode" />
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" height="40"/> Flask &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" height="40"/> SQLite &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code &nbsp;&nbsp;
 
 </div>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📚 [UT Lectures Plus](https://github.com/temiii-1/UT-Lectures-Plus)
-Chrome extension used by **500+ UT students** to organize lecture recordings — bookmarking, custom titles, and multiple viewing layouts.
+Chrome extension used by **500+ UT students** to enhance lecture playback — bookmarking, custom titles, and multiple viewing layouts.
 
-`JavaScript` `Chrome Extension API` `HTML/CSS`
+`JavaScript` `TypeScript` `Chrome Extension API` `HTML/CSS`
 
 </td>
 <td width="50%" valign="top">
@@ -51,7 +63,7 @@ Chrome extension used by **500+ UT students** to organize lecture recordings —
 ### 🔬 [Study Participant Hub](https://github.com/temiii-1/Study-Participant-Hub)
 Full-stack web app that helps users discover research participation opportunities near them.
 
-`Flask` `SQLite` `Python` `JavaScript`
+`Python` `JavaScript` `Flask` `SQLite`
 
 </td>
 </tr>
